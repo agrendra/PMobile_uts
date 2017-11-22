@@ -6,4 +6,8 @@
     android:layout_height="match_parent"
     tools:context="com.example.agrendra.pmobile_uts.DetailActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="kasfa"/>
 </RelativeLayout>
